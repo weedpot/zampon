@@ -5,3 +5,6 @@
  * @org weedpot
  */
 
+export function foo(){
+  
+}
