@@ -6,6 +6,6 @@
  * @org weedpot
  */
 
-export function foo(){
+export function api(){
   
 }
